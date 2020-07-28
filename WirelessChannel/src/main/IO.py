@@ -13,7 +13,7 @@ from matplotlib.ticker import FuncFormatter as funcFormat
 from matplotlib.ticker import MultipleLocator
 
 
-root_path = '/Users/nader/Library/Mobile Documents/com~apple~CloudDocs/Coding/Python/WirelessChannel'
+root_path = '/' # change it for yourself
 
 
 class DataReader:
