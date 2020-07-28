@@ -7,7 +7,7 @@ import graphviz
 
 import numpy as np
 
-root_path = '/Users/nader/Library/Mobile Documents/com~apple~CloudDocs/Coding/Python/WirelessChannel'
+root_path = '' # change it for yourself
 adr = root_path + '/out/bin/'
 
 
